@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288130282494",
+    "project_id": "phone-auth-61c09",
+    "storage_bucket": "phone-auth-61c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288130282494:android:c9862581e4d24e61b886af",
+        "android_client_info": {
+          "package_name": "com.ringersoft.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288130282494-rv8ijoeo0e8ma89o2l4m8d7kbdks2vhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_RRkzvH5DrnTnVSseh6jV8eLevJQurbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288130282494-rv8ijoeo0e8ma89o2l4m8d7kbdks2vhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
